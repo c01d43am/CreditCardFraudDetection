@@ -5,7 +5,7 @@ The Credit Card Fraud Detection Problem includes modeling past credit card trans
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
-# about
+# About
 
 The provided code is an example of anomaly detection in a dataset using two outlier detection algorithms: Isolation Forest and Local Outlier Factor. Here's a breakdown of what the code does:
 
