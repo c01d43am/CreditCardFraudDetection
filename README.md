@@ -41,4 +41,3 @@ The provided code is an example of anomaly detection in a dataset using two outl
 
 13. Plotting the number of errors: For each outlier detection algorithm, the code fits the data and predicts the outliers. It then compares the predicted outliers with the actual class labels (fraud or valid) to calculate the number of errors. The accuracy score and classification report are also printed.
 
-The code to be an implementation of anomaly detection using Isolation Forest and Local Outlier Factor algorithms, but without the actual dataset or file location, it's difficult to provide more specific information about the results or potential improvements.
